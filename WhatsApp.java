@@ -1,8 +1,8 @@
 public class WhatsApp {
 
-  public static void status(){
+  public static void facebook(){
 
-     System.out.println("status");
+     System.out.println("Open facebook");
   }
 
    public static void main(String args[]){
