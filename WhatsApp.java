@@ -4,6 +4,10 @@ public class WhatsApp {
 
      System.out.println("Open facebook");
   }
+   public static void instagram(){
+      
+     System.out.println("Hello Instagram");
+  }
 
    public static void main(String args[]){
 
